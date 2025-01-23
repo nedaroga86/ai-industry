@@ -1,7 +1,7 @@
 class Logging:
 
     def main(self):
-        print('Test')
+        print('Test Version 3')
 
 
 if __name__ == "__main__":
